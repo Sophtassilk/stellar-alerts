@@ -1,0 +1,18 @@
+{
+  "default_branch": "contribution",
+  "branches": [
+    "contribution",
+    "origin",
+    "security/issue-761-150-pts-notifications-automated-24-hour"
+  ],
+  "parent": {
+    "contribution": null,
+    "origin": "contribution",
+    "security/issue-761-150-pts-notifications-automated-24-hour": "contribution"
+  },
+  "order": [
+    "contribution",
+    "origin",
+    "security/issue-761-150-pts-notifications-automated-24-hour"
+  ]
+}
